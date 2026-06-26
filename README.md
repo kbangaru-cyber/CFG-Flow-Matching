@@ -1,4 +1,4 @@
-# HW3: CFG Flow Matching — Attribute-Conditional Generation & Editing
+# CFG Flow Matching — Attribute-Conditional Generation & Editing
 
 ## Quick Answer: Do I Need to Retrain?
 
